@@ -176,15 +176,41 @@ Visualization used:
 ⸻
 
 
-10 Visualizations Included
+## Visualizations Included
 
-- Revenue by Product Type (Bar Chart)
+### 1. Revenue by Product Type (Bar Chart)
 
-- Revenue Distribution by Customer Demographics (Box Plot)
+![Revenue by Product Type](images/Revenue%20by%20product.png)
 
-- Manufacturing Costs vs Revenue Generated (Regression Plot)
+* Comparison of total revenue generated across product categories
+* Product-wise revenue performance evaluation
 
-- Supply Chain Correlation Analysis (Correlation Heatmap)
+---
+
+### 2. Revenue Distribution by Customer Demographics (Box Plot)
+
+![Revenue Distribution by Customer Demographics](images/Revenue%20distribution%20by%20Customer%20demographics.png)
+
+* Revenue distribution across customer demographic groups
+* Customer purchasing behavior variability analysis
+
+---
+
+### 3. Manufacturing Costs vs Revenue Generated (Regression Plot)
+
+![Manufacturing Costs vs Revenue Generated](images/revenue%20against%20Manufacturing%20cost.png)
+
+* Relationship analysis between manufacturing costs and revenue generated
+* Regression trend line for operational cost evaluation
+
+---
+
+### 4. Supply Chain Correlation Analysis (Correlation Heatmap)
+
+![Supply Chain Correlation Analysis](images/Correlation.png)
+
+* Correlation analysis across operational supply chain variables
+* Relationship evaluation between inventory, logistics, production, sales, and cost metrics
 
 ⸻
 
