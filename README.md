@@ -175,11 +175,16 @@ Visualization used:
 
 ⸻
 
-Visualizations Included
 
-* Revenue by Product Type (Bar Chart)
-* Revenue Distribution by Customer Demographics (Box Plot)
-* Manufacturing Costs vs Revenue Generated (Correlation & Regression Plot)
+10 Visualizations Included
+
+- Revenue by Product Type (Bar Chart)
+
+- Revenue Distribution by Customer Demographics (Box Plot)
+
+- Manufacturing Costs vs Revenue Generated (Regression Plot)
+
+- Supply Chain Correlation Analysis (Correlation Heatmap)
 
 ⸻
 
