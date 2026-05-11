@@ -178,42 +178,97 @@ Visualization used:
 
 ## Visualizations Included
 
-### 1. Revenue by Product Type (Bar Chart)
+## Visualizations Included
 
-![Revenue by Product Type](images/Revenue%20by%20product.png)
+### 1. Revenue Analysis
 
-* Comparison of total revenue generated across product categories
-* Product-wise revenue performance evaluation
+![Revenue by Product Type](Revenue%20by%20product.png)
 
----
-
-### 2. Revenue Distribution by Customer Demographics (Box Plot)
-
-![Revenue Distribution by Customer Demographics](images/Revenue%20distribution%20by%20Customer%20demographics.png)
-
-* Revenue distribution across customer demographic groups
-* Customer purchasing behavior variability analysis
+**Visualization:** Bar Chart  
+**Purpose:** Compare total revenue generated across product categories to identify the highest-performing products.
 
 ---
 
-### 3. Manufacturing Costs vs Revenue Generated (Regression Plot)
+### 2. Customer & Sales Analysis
 
-![Manufacturing Costs vs Revenue Generated](images/revenue%20against%20Manufacturing%20cost.png)
+#### Revenue Distribution by Customer Demographics
 
-* Relationship analysis between manufacturing costs and revenue generated
-* Regression trend line for operational cost evaluation
+![Revenue Distribution by Customer Demographics](Revenue%20distribution%20by%20Customer%20demographics.png)
+
+**Visualization:** Box Plot  
+**Purpose:** Analyze revenue distribution and purchasing variability across customer demographic groups.
+
+#### Sales & Order Contribution
+
+![Sales and Order Contribution](Sales%20and%20order%20contribution.png)
+
+**Visualization:** Horizontal Bar Chart  
+**Purpose:** Compare product sales contribution and order contribution percentages across customer demographics.
 
 ---
 
-### 4. Supply Chain Correlation Analysis (Correlation Heatmap)
+### 3. Inventory & Product Demand Analysis
 
-![Supply Chain Correlation Analysis](images/Correlation.png)
+![Inventory, Availability and Product Demand](Inventory,%20availabilty%20and%20product%20demand.png)
 
-* Correlation analysis across operational supply chain variables
-* Relationship evaluation between inventory, logistics, production, sales, and cost metrics
+**Visualization:** Inventory Performance Chart  
+**Purpose:** Evaluate stock levels, product availability, and demand patterns across product categories.
 
-⸻
+---
 
+### 4. Product Replenishment Analysis
+
+![Product Replenishment](product%20replenishment.png)
+
+**Visualization:** Lead Time Comparison Chart  
+**Purpose:** Analyze replenishment lead times and inventory responsiveness across product categories.
+
+---
+
+### 5. Carrier Performance Analysis
+
+![Carrier Cost and Shipping Time](carrier%20cost%20and%20shipping%20time.png)
+
+**Visualization:** Comparative Logistics Performance Chart  
+**Purpose:** Compare shipping carriers based on shipping cost efficiency and delivery speed.
+
+---
+
+### 6. Transportation Cost Analysis
+
+![Transportation Cost Contribution](Transportation%20costs%20my%20different%20modes.png)
+
+**Visualization:** Donut Chart  
+**Purpose:** Analyze transportation mode contribution to total logistics costs across the supply chain network.
+
+---
+
+### 7. Supplier Performance Analysis
+
+![Supplier Performance](Supplier%20performance.png)
+
+**Visualization:** Supplier KPI Comparison Table/Chart  
+**Purpose:** Evaluate suppliers based on production volume, manufacturing lead time, manufacturing cost, and defect rates.
+
+---
+
+### 8. Manufacturing Cost vs Revenue Analysis
+
+![Revenue Against Manufacturing Cost](revenue%20against%20Manufacturing%20cost.png)
+
+**Visualization:** Regression Plot  
+**Purpose:** Examine the relationship between manufacturing costs and revenue generation.
+
+---
+
+### 9. Supply Chain Correlation Analysis
+
+![Correlation Analysis](Correlation.png)
+
+**Visualization:** Correlation Heatmap  
+**Purpose:** Identify relationships between inventory, sales, logistics, production, cost, and operational variables across the supply chain.
+
+----------------
 Author
 
 SarathKumar Krishna Sha
