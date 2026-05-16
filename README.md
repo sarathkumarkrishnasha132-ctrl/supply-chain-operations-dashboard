@@ -10,7 +10,7 @@ The project combines:
 * Data quality assessment
 * Exploratory data analysis (EDA)
 * Operational KPI analysis
-* Business insight generation
+* Business insight
 * Data visualization and storytelling
 
 ⸻
